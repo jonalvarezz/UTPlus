@@ -5,6 +5,7 @@
 
   "author": "@jonalvarezz",
   "description": "Mejora la usabilidad del portal estudiantil #UTPereira",
+  "icons": { "48" : "icon48.png" },
 
   "content_scripts": [
     {
