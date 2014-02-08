@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "UTPlus",
+  "version": "0.1",
+
+  "author": "@jonalvarezz",
+  "description": "Mejora la usabilidad del portal estudiantil #UTPereira",
+
+  // Use an event page
+  "background": {
+    "persistent": false,
+    "scripts": ["main.js"]
+  },
+
+  "permissions": ["http://*.utp.edu.co/*"]
+}
