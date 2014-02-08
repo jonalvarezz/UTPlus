@@ -5,12 +5,12 @@ Extensión para Google Chrome que mejora la usabilidad del portal estudiantil de
 
 > Con esta extensión no tendrás que quitar las manos del teclado para ingresar al portal
 
-## Qué hace
+### Qué hace
 * El campo de código se habilita para que escribas inmediatamente cargue la página.
 * Ahora puedes utilizar la tecla `Enter` para entrar al portal.
 
-## Muy pronto
+### Muy pronto
 * habilitar el guardado automático de contraseñas.
 
-## ¿Sugerencias y mejoras?
+### ¿Sugerencias y mejoras?
 Ve a los [issues](https://github.com/jonalvarezz/UTPlus/issues)... esta bien, escribe a `jonalvarez@utp.edu.co`
