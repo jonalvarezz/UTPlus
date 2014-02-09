@@ -1,11 +1,14 @@
 {
   "manifest_version": 2,
   "name": "UTPlus",
-  "version": "0.3",
+  "version": "0.3.1",
 
   "author": "@jonalvarezz",
-  "description": "Mejora la usabilidad del portal estudiantil #UTPereira",
-  "icons": { "48" : "icon48.png" },
+  "description": "Extensión para Google Chrome que mejora la usabilidad del inicio de sesión en el Portal Estudiantil de la Universidad Tecnológica de Pereira.",
+  "icons": { 
+    "48" : "icon48.png",
+    "128": "icon128.png"
+  },
 
   "content_scripts": [
     {
