@@ -8,7 +8,7 @@ Qué hace
 
     El campo de código se habilita para que escribas inmediatamente cargue la página.
     Ahora puedes utilizar la tecla Enter para entrar al portal.
-    Elimina el innecesario e inútil botón 'Salir'
+    Elimina el innecesario e inútil botón 'Salir'.
 
 Muy pronto
 
